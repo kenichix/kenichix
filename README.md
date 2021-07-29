@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kenichi
-- 👀 I’m interested in motor cycle
+- 👀 I’m interested in IoT
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
